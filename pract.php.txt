@@ -1,0 +1,8 @@
+<?php
+$a=3;
+$b=$a+9;
+echo "el valor de a es $a <br>"
+echo "el valor de  b es $b <br>";
+echo "hola mundo <br>";
+?>
+
