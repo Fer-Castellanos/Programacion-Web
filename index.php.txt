@@ -1,0 +1,9 @@
+appserver ..descargarlo , servidor gratuito
+todas las paginas que hagamos guardarlas en disco local-appserv-www
+si no te va a marcar error
+
+//iniciar un programa en programacion web php
+guardarlo como index.php
+<?php
+echo "hola mundo";//es una instruccion para decirle que vas a colocar en el monitor esta informacion *echo=(ponerlo en la pantalla)
+?>
